@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 &nbsp; I’m currently working on TabKeeper - (One Tab To Rule Them All!) to help increase browser/computer speed, general organization and development eficiency
+<!-- 🔭 &nbsp; I’m currently working on TabKeeper - (One Tab To Rule Them All!) to help increase browser/computer speed, general organization and development eficiency -->
