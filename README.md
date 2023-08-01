@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <!-- 🔭 &nbsp; I’m currently working on TabKeeper - (One Tab To Rule Them All!) to help increase browser/computer speed, general organization and development eficiency -->
 
-📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/leon-tzu-chiang-chan/"> <img align="center" src="./assets/linkedin.svg" width="22"/> </a> &nbsp; <a href=""> <img align="center" src="" width="22"> </a> &nbsp; <a href=""> <img align="center" src="" width="22" /> </a>
+📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/leon-tzu-chiang-chan/"> <img align="center" src="./assets/linkedin.svg" width="22"/> </a> &nbsp; <a href="mailto:tzuchiangchan@gmail.com"> <img align="center" src="./assets/gmail.svg" width="22"> </a> &nbsp; <a href=""> <img align="center" src="" width="22" /> </a>
