@@ -2,6 +2,8 @@
 
 <link rel="stylesheet" href="style.css" />
 
+<img src="./assets/Lower_Manhattan.jpg" width="145" />
+
 <!--
 **TzuCChan/TzuCChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
