@@ -4,6 +4,8 @@
 
 <img src="./assets/1Banner.png"/>
 
+💻 &nbsp; I’m currently typing or catch'em all
+
 <!--
 **TzuCChan/TzuCChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
