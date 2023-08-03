@@ -11,35 +11,24 @@
 
 ```javascript
 const Leon = {
-  // pronouns: "she | her",
   code: "JavaScript, HTML, CSS, Python",
-  technologies: [
-    "React",
-    "Node",
-    // "Express",
-    "MongoDB",
-    "PostgreSQL",
-    // "Docker",
-    "AWS",
-  ],
-  // techCommunities: {
-  //   speaker: "CUNY Tech",
-  //   participant: ["Women Who Code NYC", "Whiteboard Masters"],
-  // },
-  // currentlyWorkingAt: "Computing For All",
+  technologies: ["React", "Node", "MongoDB", "PostgreSQL", "AWS"],
+  techCommunities: {
+    Apprentice: "General Assembly",
+    participant: ["Beyond Bootcamp Sprint 2022"],
+  },
   hobbies: [
-    "snowboarding",
-    "skateboarding",
+    "PlayStations",
+    "Pokemon GO",
     "drawing animals ↗️",
     "coding",
     "reading",
     "drinking coffee",
-    "hiking",
-    "rock climbing",
-    "hammocking",
-    "...and the list goes on",
+    "shooting range",
+    "building model kits",
+    "traveling",
+    "...and just like that",
   ],
-  // currentChallenge: "Hacktoberfest!",
 };
 ```
 
