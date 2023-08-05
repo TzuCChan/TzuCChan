@@ -31,7 +31,7 @@ const Leon = {
 };
 ```
 
-📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/leon-tzu-chiang-chan/"> <img align="center" src="./assets/linkedin.svg" width="22"/> </a> &nbsp; <a href="mailto:tzuchiangchan@gmail.com"> <img align="center" src="./assets/gmail.svg" width="22"> </a> &nbsp; <a href="https://github.com/TzuCChan"> <img align="center" src="./assets/github.svg" width="22" /> </a>
+📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/leon-tzu-chiang-chan/"> <img align="center" src="./assets/linkedinLogo.svg" width="22"/> </a> &nbsp; <a href="mailto:tzuchiangchan@gmail.com"> <img align="center" src="./assets/gmailLogo.svg" width="22"> </a> &nbsp; <a href="https://github.com/TzuCChan"> <img align="center" src="./assets/githubLogo.svg" width="22" /> </a>
 
 <!-- Here are some ideas to get you started:
 
