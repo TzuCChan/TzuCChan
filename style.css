@@ -6,3 +6,8 @@ a {
   color: blue;
   text-decoration: 'none';
 }
+
+.icon {
+  width: 10px;
+  height: 10px;
+}
