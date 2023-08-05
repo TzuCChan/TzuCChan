@@ -19,10 +19,10 @@ const Leon = {
   hobbies: [
     "PlayStations",
     "Pokemon GO",
-    "drawing animals ↗️",
+    "drawing ↗️",
     "coding",
     "reading",
-    "drinking coffee",
+    "dine and drink",
     "shooting range",
     "building model kits",
     "traveling",
